@@ -1,0 +1,11 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+#root {
+  height: 100vh;
+}
+body {
+  margin: 0;
+}

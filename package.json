@@ -1,0 +1,25 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@graphiql/toolkit": "0.4.2",
+    "@types/react": "16.14.21",
+    "@types/react-dom": "16.9.14",
+    "graphiql": "^1.5.12",
+    "graphql": "16.0.1",
+    "graphql-ws": "5.5.5",
+    "punycode": "2.1.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
